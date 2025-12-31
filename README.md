@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 The code repository for [https://ashrike.tech](https://ashrike.tech) portfolio website
 =======
 <h1 align="center">
@@ -119,3 +120,6 @@ Good luck!
 
 * [Awesome Identity](https://github.com/posquit0/hugo-awesome-identity) - A single-page Hugo theme to introduce yourself.
 >>>>>>> 3c0c4ea158f38dff1fb5716be83a5e33a0ff756a
+=======
+The code repository for [https://ashrike.tech](https://ashrike.tech) portfolio website
+>>>>>>> 3bd6e940b624994798df859a112423dc91dde3c7
