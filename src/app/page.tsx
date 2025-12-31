@@ -38,18 +38,13 @@ export default function Home() {
             <Link href={siteConfig.about.socials.github} target="_blank" className="w-10 h-10 rounded-full bg-gray-800 flex items-center justify-center hover:bg-blue-800 transition-colors" aria-label="GitHub">
               <FaGithub size={22} color="#f0f0f0" />
             </Link>
-            <Link href={siteConfig.about.socials.linkedin} target="_blank" className="w-10 h-10 rounded-full bg-gray-800 flex items-center justify-center hover:bg-blue-800 transition-colors" aria-label="LinkedIn">
-              <FaLinkedin size={22} color="#f0f0f0" />
-            </Link>
+            
+            
             <Link href={`mailto:${siteConfig.about.socials.email}`} className="w-10 h-10 rounded-full bg-gray-800 flex items-center justify-center hover:bg-blue-800 transition-colors" aria-label="Email">
               <MdEmail size={22} color="#f0f0f0" />
             </Link>
-            <Link href={siteConfig.about.socials.twitter} target="_blank" className="w-10 h-10 rounded-full bg-gray-800 flex items-center justify-center hover:bg-blue-800 transition-colors" aria-label="Twitter">
-              <FaXTwitter size={22} color="#f0f0f0" />
-            </Link>
-            <Link href={siteConfig.about.socials.reddit} target="_blank" className="w-10 h-10 rounded-full bg-gray-800 flex items-center justify-center hover:bg-[#FF4500]/20 transition-colors" aria-label="Reddit">
-              <FaRedditAlien size={22} color="#f0f0f0" />
-            </Link>
+            
+            
           </div>
           {/* Resume Button */}
           <div className="flex justify-center md:justify-start w-full">
