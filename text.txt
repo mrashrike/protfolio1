@@ -1,0 +1,6 @@
+\item {Demonstrated excellent communication and collaboration skills within cross-functional teams.}
+    \item {Debugged complex systems vulenrabilities by performing meticulous code reviews and root-cause analysis, ensuring \textbf{ 99.9\% system uptime} and zero security breaches over a 12-month period.}
+    \item {Developed and deployed scalable machine learning pipelines using \textbf{Python and Sckit-learn}, automating data preprocessing and feature engineering to reduce model training time by \textbf{30\%} .}
+    \item {Deployed AI/ML models into \textbf{AWS production enviroments} using \textbf{Sagemaker and Lamda}, optimizing container orchestration to reduce inference costs by \textbf{25\%} while maintaining 99.9\% availability.}
+    \item {Spearheaded the development of a domain-specific \textbf{LLM application} using \textbf{LangChain and OpenAI}, implementing \textbf{RAG (Retrieval-Augmented Generation)} with a vector database (Pinecone) to reduce hallucination rates by \textbf{35\%} in automated customer support.}
+%    \item {Tools and Technologies used: TypeScript, NodeJS, Golang, Kafka, MongoDB, Postgres, AWS, CI/CD.}
