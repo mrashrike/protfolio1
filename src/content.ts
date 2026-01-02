@@ -2,9 +2,9 @@
 
 export const siteConfig = {
   name: 'Ashish',
-  title: 'ML Engineer',
+  title: 'a.k.a. Ashish Kumar ',
   about: {
-    headline: 'I love solving on Machine Learning problems. In particular, I am interested in Machine Learning Engineering. Working full time as a ML engineer at Zluri.',
+    headline: 'Software geek and a Power Rangers nerd. Working full time as a Python Developer at Zluri.',
     socials: {
       github: 'https://github.com/mrashrike',
       
@@ -18,24 +18,30 @@ export const siteConfig = {
     
     {
       company: 'Zluri, Bangalore',
-      title: 'ML Engineer',
+      title: 'Senior Python Developer',
       link: 'https://www.zluri.com/',
-      period: 'July 2022 - Present',
+      period: 'Oct 2022 - Present',
       logo: '/zluri.svg',
       highlights: [
-        'Over 2 years of experience in AI/ML development with a strong focus on <b>NLP</b> and <b>large language models (LLMs)</b>.',
-        'Deployed AI/ML models into <b>AWS production enviroments</b> using <b>Sagemaker and Lamda</b>, optimizing container orchestration to reduce inference costs by <b>{25\%}</b> while maintaining <b>99.9\%</b> availability',
-        'Demonstrated excellent communication and collaboration skills within cross-functional teams',
-        'Debugged complex systems vulenrabilities by performing meticulous code reviews and root-cause analysis, ensuring <b>99.9\% system uptime</b> and zero security breaches over a 12-month period',
-        'Developed and deployed scalable machine learning pipelines using <b>Python and Sckit-learn</b>, automating data preprocessing and feature engineering to reduce model training time by <b>30\%</b>',
-        'Proficiently harnessed the power of the pandas library to extract, clean and manipulate Sales data. This process involved several crucial steps to ensure the accuracy and reliability of the information we worked with',
-        'Developed and consistently manage Python-based sofwtare <b>Python-based sofwtare</b> Django and React desgined specifically for compression tasks within the <b>swap platform</b> domain.This entails crafting efficient algorithm and processes to optimize data while adhering to industry standards',
-        'Additionaly, the role involves the ongoing maintenance, debugging and enhancement of the software to align with the dynamic requirements of the swaps market',
-        'Developed <b>Python scripts</b> that identify potential compression oppurtunities for cross-currency and inflation trades. Aiding the bank in reducing the notional value or risk exposure of financial transactions, typically derivatives or other complex instruments, by combining or netting offsetting positions',
-        'Contributed to the development of incremental features within the <b>React framework</b> for the compression process platform.My role involved breaking down larger functionalities into smaller, manageable components that could be implemented iteratively. By doing so, I ensured a smooth integration of new capabilities into the existing system',
-        'Ideated \& implemented a development workflow for the organization using feature environments, automated testing etc. for multiple services and background jobs resulting in higher engineering productivity and faster project delivery'
+        'Develop and consistently manage Python‑based software (Flask and Angular) designed specifically for compression tasks within the swap’s do‑ main. This entails crafting efficient algorithms and processes to optimize data while adhering to industry standards. Additionally, the role involves the ongoing maintenance, debugging, and enhancement of the software to align with the dynamic requirements of the swaps market.',
+        'Developed python scripts that identify potential compression opportunities for cross‑currency and inflation trades. Aiding the bank in reducing the notional value or risk exposure of financial transactions, typically derivatives or other complex instruments, by combining or netting offsetting positions',
+        'Contributed to the development of incremental features within the Angular framework for the compression’s platform. My role involved breaking down larger functionalities into smaller, manageable components that could be implemented iteratively. By doing so, I ensured a smooth inte‑ gration of new capabilities into the existing system.'
       ],
-      skills: ['Python 3.12', 'Pandas', 'MySQL', 'AWS S3', 'Tensorflow', 'Datadog', 'CI/CD','ReactJS', 'Redux', 'SQL'],
+      skills: ['Python 3.12', 'Pandas', 'CI/CD','ReactJS', 'Redux'],
+    },
+     {
+      company: 'Zluri',
+      title: 'Python Developer',
+      link: 'https://www.zluri.com/',
+      period: 'April 2021 - Aug 2022',
+      logo: '/zluri.svg',
+      highlights: [
+        'Proficiently harnessed the power of the Pandas library to extract, clean, and manipulate pharmaceutical data. This process involved several crucial steps to ensure the accuracy and reliability of the information we worked with.',
+        'Undertook the challenge of building sophisticated machine learning models to predict the risk compliance of patients. This involved a compre‑ hensive and systematic approach that incorporated various stages of model development and validation.',
+        'Translating legacy code from SAS to Python involves converting existing code written in the SAS programming language into Python code. This process requires a thorough understanding of both programming languages, data processing concepts, and the specific logic embedded in the legacy SAS code',
+        'Collaborated with Product Managers, Design, and Customer Support teams to proactively deliver features and address customer pain points.',
+      ],
+      skills: ['Python', 'MySQL', 'Flask'],
     },
    
     
