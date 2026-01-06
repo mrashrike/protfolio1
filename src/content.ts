@@ -4,7 +4,7 @@ export const siteConfig = {
   name: 'Ashish',
   title: 'a.k.a. Ashish Kumar ',
   about: {
-    headline: 'Software geek and a Power Rangers nerd. Working full time as a Python Developer at Zluri.',
+    headline: 'I am a proactive and results-oriented Python Developer with over 3+ years of combined experience in software development, testing, and automation. I have a strong foundation in programming languages in Python with expertise in developing robust, fault-tolerant systems and optimizing automation frameworks. I\'m currently working on the SaaS Management Platform as a Senior Python Developer at Greet Labs, Bangalore. My academic journey includes a Bachelor\'s degree in Computer Applications and where I graduated Master\'s in Computer Applications from the V.T.U University of Karnataka, with a Distinction First Class.',
     socials: {
       github: 'https://github.com/mrashrike',
       
@@ -17,11 +17,11 @@ export const siteConfig = {
   experience: [
     
     {
-      company: 'Zluri, Bangalore',
+      company: 'Greet Labs, Bangalore',
       title: 'Senior Python Developer',
-      link: 'https://www.zluri.com/',
-      period: 'Oct 2022 - Present',
-      logo: '/zluri.svg',
+      link: 'https://www.greetlabs.com/',
+      period: 'Jun. 2022 - Present',
+      logo: '/greetlogo.png',
       highlights: [
         'Develop and consistently manage Python‑based software (Flask and Angular) designed specifically for compression tasks within the swap’s do‑ main. This entails crafting efficient algorithms and processes to optimize data while adhering to industry standards. Additionally, the role involves the ongoing maintenance, debugging, and enhancement of the software to align with the dynamic requirements of the swaps market.',
         'Developed python scripts that identify potential compression opportunities for cross‑currency and inflation trades. Aiding the bank in reducing the notional value or risk exposure of financial transactions, typically derivatives or other complex instruments, by combining or netting offsetting positions',
@@ -30,11 +30,11 @@ export const siteConfig = {
       skills: ['Python 3.12', 'Pandas', 'CI/CD','ReactJS', 'Redux'],
     },
      {
-      company: 'Zluri',
+      company: 'Greet Labs, Bangalore',
       title: 'Python Developer',
-      link: 'https://www.zluri.com/',
-      period: 'April 2021 - Aug 2022',
-      logo: '/zluri.svg',
+      link: 'https://www.greetlabs.com/',
+      period: 'Jun. 2021 - Aug 2023',
+      logo: '/greetlogo.png',
       highlights: [
         'Proficiently harnessed the power of the Pandas library to extract, clean, and manipulate pharmaceutical data. This process involved several crucial steps to ensure the accuracy and reliability of the information we worked with.',
         'Undertook the challenge of building sophisticated machine learning models to predict the risk compliance of patients. This involved a compre‑ hensive and systematic approach that incorporated various stages of model development and validation.',
