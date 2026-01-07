@@ -4,7 +4,7 @@ export const siteConfig = {
   name: 'Ashish',
   title: 'a.k.a. Ashish Kumar ',
   about: {
-    headline: 'I am a proactive and results-oriented Python Developer with over 3+ years of combined experience in software development, testing, and automation. I have a strong foundation in programming languages in Python with expertise in developing robust, fault-tolerant systems and optimizing automation frameworks. I\'m currently working on the SaaS Management Platform as a Senior Python Developer at Greet Labs, Bangalore. My academic journey includes a Bachelor\'s degree in Computer Applications and where I graduated Master\'s in Computer Applications from the V.T.U University of Karnataka, with a Distinction First Class.',
+    headline: 'Software geek with 2+ years of experience in Python Development and Machine Learning. Currently, sharpening my skills in Machine Learning Modeling. Because breaking things is fun, but securing them is better!',
     socials: {
       github: 'https://github.com/mrashrike',
       
@@ -12,22 +12,23 @@ export const siteConfig = {
       email: '<a href=mrashrike@gmail.com>Email</a>',
       
     },
-    resumeUrl: 'https://raw.githubusercontent.com/mrashrike/resume/main/Ashish_resume.pdf',
+    resumeUrl: 'https://raw.githubusercontent.com/mrashrike/resume/main/Ashish_reume.pdf',
   },
   experience: [
     
     {
       company: 'Greet Labs, Bangalore',
-      title: 'Senior Python Developer',
+      title: 'ML Engineer',
       link: 'https://www.greetlabs.com/',
-      period: 'Jun. 2022 - Present',
+      period: 'Dec. 2023 - Present',
       logo: '/greetlogo.png',
       highlights: [
+        'Developed a Behavioral Anomaly Detection pipeline utilizing Isolation Forests and RNNs to identify orphaned accounts by analyzing "Ghosting" patterns; integrated Department-App Affinity scoringto distinguish between human departures and critical service accounts, reducing manual IT audit overhead by 40.',
         'Develop and consistently manage Python‑based software (Flask and Angular) designed specifically for compression tasks within the swap’s do‑ main. This entails crafting efficient algorithms and processes to optimize data while adhering to industry standards. Additionally, the role involves the ongoing maintenance, debugging, and enhancement of the software to align with the dynamic requirements of the swaps market.',
         'Developed python scripts that identify potential compression opportunities for cross‑currency and inflation trades. Aiding the bank in reducing the notional value or risk exposure of financial transactions, typically derivatives or other complex instruments, by combining or netting offsetting positions',
         'Contributed to the development of incremental features within the Angular framework for the compression’s platform. My role involved breaking down larger functionalities into smaller, manageable components that could be implemented iteratively. By doing so, I ensured a smooth inte‑ gration of new capabilities into the existing system.'
       ],
-      skills: ['Python 3.12', 'Pandas', 'CI/CD','ReactJS', 'Redux'],
+      skills: ['PyTorch', 'Pandas', 'CI/CD','Airflow', 'Kafka'],
     },
      {
       company: 'Greet Labs, Bangalore',
