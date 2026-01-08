@@ -12,7 +12,7 @@ export const siteConfig = {
       email: '<a href=mrashrike@gmail.com>Email</a>',
       
     },
-    resumeUrl: 'https://raw.githubusercontent.com/mrashrike/resume/main/Ashish_reume.pdf',
+    resumeUrl: 'https://raw.githubusercontent.com/mrashrike/resume/master/Ashish_resume.pdf',
   },
   experience: [
     
