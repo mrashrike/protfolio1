@@ -4,7 +4,7 @@ export const siteConfig = {
   name: 'Ashish',
   title: 'a.k.a. Ashish Kumar ',
   about: {
-    headline: 'Software geek with 2+ years of experience in Python Development and Machine Learning. Currently, sharpening my skills in Machine Learning Modeling. Because breaking things is fun, but securing them is better!',
+    headline: 'Software geek and a Power Rangers nerd. Working full time as a Machine Learning Engineer at Greet Labs.',
     socials: {
       github: 'https://github.com/mrashrike',
       
