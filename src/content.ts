@@ -17,10 +17,10 @@ export const siteConfig = {
   experience: [
     
     {
-      company: 'Greet Labs, Bangalore',
-      title: 'ML Engineer',
-      link: 'https://www.greetlabs.com/',
-      period: 'Dec. 2023 - Present',
+      company: '',
+      title: '',
+      link: '',
+      period: '',
       logo: '/greetlogo.png',
       highlights: [
         'Developed a Behavioral Anomaly Detection pipeline utilizing Isolation Forests and RNNs to identify orphaned accounts by analyzing "Ghosting" patterns; integrated Department-App Affinity scoringto distinguish between human departures and critical service accounts, reducing manual IT audit overhead by 40.',
@@ -31,9 +31,9 @@ export const siteConfig = {
       skills: ['PyTorch', 'Pandas', 'CI/CD','Airflow', 'Kafka'],
     },
      {
-      company: 'Greet Labs, Bangalore',
+      company: '',
       title: 'Python Developer',
-      link: 'https://www.greetlabs.com/',
+      link: '',
       period: 'Jun. 2021 - Aug 2023',
       logo: '/greetlogo.png',
       highlights: [
