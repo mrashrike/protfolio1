@@ -37,8 +37,8 @@ export const siteConfig = {
     {
       name: 'Multi Agent Generator Pro',
       description: 'Low-code/no-code python library that transforms plain English instructions into fully configured multi-agent AI teams',
-      githubUrl: 'https://github.com/mrashrike/',
-      liveUrl: '',
+      githubUrl: 'https://github.com/meashish194/multi-agent-generator-pro',
+      liveUrl: 'https://meashish194.github.io/multi-agent-generator-pro/',
       colors: ['#3b82f6', '#8b5cf6', '#22c55e'],
       badges: ['Python', 'OpenAI', 'Streamlit'],
     },
