@@ -4,7 +4,7 @@ export const siteConfig = {
   name: 'Ashish',
   title: 'a.k.a. Ashish Kumar ',
   about: {
-    headline: 'I’m an AI Builder with 3+ years across engineering, business, sales, community, content, and public speaking.',
+    headline: 'I Build, Speak & Write About Real AI Systems',
     socials: {
       github: 'https://github.com/mrashrike',
       
