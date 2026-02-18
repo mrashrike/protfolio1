@@ -4,6 +4,8 @@ import GithubHeatmap from "./github-heatmap";
 import Image from "next/image";
 import { FaGithub, FaLinkedin } from 'react-icons/fa';
 import { FaXTwitter, FaRedditAlien } from "react-icons/fa6";
+import { SiOpenai } from "react-icons/si";
+
 
 
 import { MdEmail } from 'react-icons/md';
@@ -43,7 +45,17 @@ export default function Home() {
             <Link href={`mailto:${siteConfig.about.socials.email}`} className="w-10 h-10 rounded-full bg-gray-800 flex items-center justify-center hover:bg-blue-800 transition-colors" aria-label="Email">
               <MdEmail size={22} color="#f0f0f0" />
             </Link>
-            
+
+            <Link
+  href="https://chatgpt.com/g/g-6989cf1637f08191a960d5881c7a3047-architecture-ai"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="w-10 h-10 rounded-full bg-gray-800 flex items-center justify-center hover:bg-blue-800 transition-colors"
+  aria-label="ChatGPT"
+>
+  <SiOpenai size={22} color="#f0f0f0" />
+</Link>
+
             
           </div>
           {/* Resume Button */}

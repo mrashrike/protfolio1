@@ -10,6 +10,7 @@ export const siteConfig = {
       
       
       email: '<a href=mrashrike@gmail.com>Email</a>',
+      Chatgpt: '<a href=https://chatgpt.com/g/g-6989cf1637f08191a960d5881c7a3047-architecture-ai'
       
     },
     resumeUrl: 'https://raw.githubusercontent.com/mrashrike/resume/master/Ashish_resume.pdf',
