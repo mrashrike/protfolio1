@@ -67,7 +67,7 @@ export default function Home() {
         </div>
         {/* Right: Hero Image */}
         <div className="flex-1 flex items-center justify-center w-full max-w-md">
-          <Image src="/hero.webp" alt="Hero Illustration" width={400} height={400} className="w-full h-auto object-contain" priority />
+          <Image src="/herow.webp" alt="Hero Illustration" width={400} height={400} className="w-full h-auto object-contain" priority />
         </div>
       </section>
       {/* GitHub Heatmap Section - visually distinct */}
