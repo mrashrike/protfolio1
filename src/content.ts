@@ -1,8 +1,8 @@
 // Centralized content and placeholder config for the portfolio
 
 export const siteConfig = {
-  name: 'Ashish',
-  title: 'a.k.a. Ashish Kumar ',
+  name: 'Ashish Kumar',
+  title: 'Artificial Intelligence Engineer ',
   about: {
     headline: 'I Build, Speak & Write About Real AI Systems',
     socials: {
@@ -24,11 +24,12 @@ export const siteConfig = {
       period: 'May 2022 - Present',
       logo: '/zluri.svg',
       highlights: [
-        'Developed and maintained AI Agent web apps with AI web architecture & CI/CD',
-        'Developed production-ready ML + GenAI/LLM systems that teams actually use — the kind that ship fast, stay reliable, and move business metrics.',
-        'Developed the full AI lifecycle: discovery, architecture, governance, production.'
+        'Architected cutting-edge AI solutions for BFSI clients, specializing in financial document processing and regulatory-compliant automation solutions',
+        'Engineered high-performance RAG architectures including Form Filling Assistant,achieving 80% faster document processing across workflows',
+        'Published Branched RAG architecture for investment advisory on Developer Portal',
+        'Delivered successful POCs for content standardization using parallel LLM processing, achieving 97% reduction in processing time,reducing compliance violations'
       ],
-      skills: ['Python', 'MySQL', 'AWS', 'Vertex AI Pipelines', 'PowerBI'],
+      skills: ['RAG', 'Milvus Vector Store', 'React.js'],
     },
      
    
