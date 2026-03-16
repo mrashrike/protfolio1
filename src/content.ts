@@ -4,7 +4,7 @@ export const siteConfig = {
   name: 'Ashish Kumar',
   title: 'Artificial Intelligence Engineer ',
   about: {
-    headline: 'I Build, Speak & Write About Real AI Systems',
+    headline: 'I am Building & deploying AI systems',
     socials: {
       github: 'https://github.com/mrashrike',
       
@@ -22,7 +22,7 @@ export const siteConfig = {
       title: '',
       link: '',
       period: 'May 2022 - Present',
-      logo: '/zluri.svg',
+      logo: '/greet.png',
       highlights: [
         'Architected cutting-edge AI solutions for BFSI clients, specializing in financial document processing and regulatory-compliant automation solutions',
         'Engineered high-performance RAG architectures including Form Filling Assistant,achieving 80% faster document processing across workflows',
