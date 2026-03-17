@@ -21,7 +21,7 @@ export const siteConfig = {
       company: '',
       title: '',
       link: '',
-      period: 'May 2022 - Present',
+      period: 'Jan 2024 - Present',
       logo: '/greet.png',
       highlights: [
         'Architected cutting-edge AI solutions for BFSI clients, specializing in financial document processing and regulatory-compliant automation solutions',
