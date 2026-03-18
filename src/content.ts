@@ -4,7 +4,7 @@ export const siteConfig = {
   name: 'Ashish Kumar',
   title: 'Artificial Intelligence Engineer ',
   about: {
-    headline: 'Building & deploying AI systems',
+    headline: 'I build, break, and secure AI systems - mostly agents, RAG, and LLM infra',
     socials: {
       github: 'https://github.com/mrashrike',
       
