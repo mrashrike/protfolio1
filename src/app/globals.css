@@ -225,6 +225,14 @@ body {
   z-index: 10;
   filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3));
 }
+.wheat-badge {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  font-size: 2rem;
+  z-index: 10;
+  filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3));
+}
 
 /* Style for rich text in experience highlights */
 .experience-highlight b,

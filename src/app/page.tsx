@@ -5,6 +5,7 @@ import Image from "next/image";
 import { FaGithub, FaLinkedin } from 'react-icons/fa';
 import { FaXTwitter, FaRedditAlien } from "react-icons/fa6";
 import { SiOpenai } from "react-icons/si";
+import { Wheat } from "lucide-react";
 
 
 

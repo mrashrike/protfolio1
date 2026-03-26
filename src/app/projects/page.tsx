@@ -32,6 +32,9 @@ export default function Projects() {
             {project.isWinner && (
               <div className="winner-badge">🥇</div>
             )}
+            {project.name === "KissanGPT" && (
+  <div className="wheat-badge">🌾</div>
+)}
             <div className="sassy-card-inner p-6 flex flex-col flex-1">
               {/* Title */}
               <h2 className="sassy-title">{project.name}</h2>

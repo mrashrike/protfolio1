@@ -21,7 +21,7 @@ export const siteConfig = {
       company: '',
       title: '',
       link: '',
-      period: 'Jan 2024 - Present',
+      period: 'Jan 2023 - Present',
       logo: '/greet.png',
       highlights: [
         'Architected cutting-edge AI solutions for BFSI clients, specializing in financial document processing and regulatory-compliant automation solutions',
@@ -37,12 +37,28 @@ export const siteConfig = {
   ],
   projects: [
     {
-      name: 'Multi Agent Generator Pro',
+      name: 'Multi Agent Generator',
       description: 'Low-code/no-code python library that transforms plain English instructions into fully configured multi-agent AI teams',
       githubUrl: 'https://github.com/meashish194/multi-agent-generator-pro',
       liveUrl: 'https://meashish194.github.io/multi-agent-generator-pro/',
       colors: ['#3b82f6', '#8b5cf6', '#22c55e'],
+      badges: ['Python'],
+    },
+    {
+      name: 'KissanGPT',
+      description: 'KissanGPT is an AI-powered chatbot built to assist farmers, agricultural workers, and enthusiasts with practical advice on farming, crop cultivation, soil management, pest control, irrigation, and agricultural technology. By leveraging Meta\'s Llama model, KisanGPT delivers accurate, detailed, and easy-to-understand guidance tailored to your agricultural needs.',
+      githubUrl: 'https://github.com/meashish194/multi-agent-generator-pro',
+      liveUrl: 'https://meashish194.github.io/multi-agent-generator-pro/',
+      colors: ['#3b82f6', '#8b5cf6', '#22c55e'],
       badges: ['Python', 'OpenAI', 'Streamlit'],
+    },
+    {
+      name: 'RAGenius',
+      description: 'Production-ready Retrieval-Augmented Generation API built with FastAPI, Azure OpenAI, and ChromaDB. Supports multi-format document processing, streaming responses, and incremental vector store updates.',
+      githubUrl: 'https://github.com/meashish194/',
+      liveUrl: 'https://meashish194.github.io/',
+      colors: ['#3b82f6', '#8b5cf6', '#22c55e'],
+      badges: ['FastAPI', 'ChromaDB', 'Langchain'],
     },
     {
       name: 'Online Banking',
