@@ -45,6 +45,14 @@ export const siteConfig = {
       badges: ['Python'],
     },
     {
+      name: 'Website',
+      description: 'A website to invite your friend for a hangout 🥰',
+      githubUrl: 'https://github.com/mrashrike/doyouwannahangoutwithme ',
+      liveUrl: 'https://mrashrike.github.io/doyouwannahangoutwithme/',
+      colors: ['#3b82f6', '#8b5cf6', '#22c55e'],
+      badges: ['HTML','CSS'],
+    },
+    {
       name: 'KissanGPT',
       description: 'KissanGPT is an AI-powered chatbot built to assist farmers, agricultural workers, and enthusiasts with practical advice on farming, crop cultivation, soil management, pest control, irrigation, and agricultural technology. By leveraging Meta\'s Llama model, KisanGPT delivers accurate, detailed, and easy-to-understand guidance tailored to your agricultural needs.',
       githubUrl: 'https://github.com/meashish194/multi-agent-generator-pro',
