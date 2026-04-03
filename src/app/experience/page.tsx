@@ -5,8 +5,8 @@ import Link from "next/link";
 export default function Experience() {
   return (
     <section className="max-w-3xl mx-auto py-16 px-4">
-      <h1 className="text-3xl md:text-4xl font-bold mb-2">Experience</h1>
-      <p className="text-gray-400 mb-12">My professional journey through the tech world</p>
+      <h1 className="text-3xl md:text-4xl font-bold mb-2">Responsibilities</h1>
+      <p className="text-gray-400 mb-12">Transforming raw data into strategic business value</p>
       <div className="relative border-l-2 border-cyan-700/40 pl-8 space-y-16">
         {siteConfig.experience.map((exp) => (
           <div key={`${exp.company}-${exp.title}`} className="relative group">

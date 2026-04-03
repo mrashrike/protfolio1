@@ -2,14 +2,14 @@
 
 export const siteConfig = {
   name: 'Ashish Kumar',
-  title: 'Artificial Intelligence Engineer ',
+  title: 'Software Engineer | Data Science Enthusiast',
   about: {
-    headline: 'I build, break, and secure AI systems - mostly agents, RAG, and LLM infra',
+    headline: 'Making Production-Ready Models a Reality on Cloud Infrastructure.',
     socials: {
       github: 'https://github.com/mrashrike',
       
       
-      email: '<a href=mrashrike@gmail.com>Email</a>',
+      
       Chatgpt: '<a href=https://chatgpt.com/g/g-6989cf1637f08191a960d5881c7a3047-architecture-ai'
       
     },
@@ -18,18 +18,18 @@ export const siteConfig = {
   experience: [
     
     {
-      company: '',
+      company: 'Greet Labs',
       title: '',
       link: '',
-      period: 'Jan 2023 - Present',
+      period: 'Jan 2022 - Present',
       logo: '/greet.png',
       highlights: [
-        'Architected cutting-edge AI solutions for BFSI clients, specializing in financial document processing and regulatory-compliant automation solutions',
-        'Engineered high-performance RAG architectures including Form Filling Assistant,achieving 80% faster document processing across workflows',
-        'Published Branched RAG architecture for investment advisory on Developer Portal',
-        'Delivered successful POCs for content standardization using parallel LLM processing, achieving 97% reduction in processing time,reducing compliance violations'
+        'Develop & maintain complex predictive models and machine learning pipelines.',
+        'Perform in-depth data analysis & wrangling to drive product decisions.',
+        'Handle data visualization & presentation of insights to various stakeholders.',
+        'Manage data engineering pipelines on cloud platforms.'
       ],
-      skills: ['RAG', 'Milvus Vector Store', 'React.js'],
+      skills: ['Python', 'TensorFlow', 'PyTorch', 'AWS'],
     },
      
    
@@ -60,23 +60,6 @@ export const siteConfig = {
       colors: ['#3b82f6', '#8b5cf6', '#22c55e'],
       badges: ['Javascript'],
     },
-
-    {
-      name: 'KissanGPT',
-      description: 'KissanGPT is an AI-powered chatbot built to assist farmers, agricultural workers, and enthusiasts with practical advice on farming, crop cultivation, soil management, pest control, irrigation, and agricultural technology. By leveraging Meta\'s Llama model, KisanGPT delivers accurate, detailed, and easy-to-understand guidance tailored to your agricultural needs.',
-      githubUrl: 'https://github.com/meashish194/multi-agent-generator-pro',
-      liveUrl: 'https://meashish194.github.io/multi-agent-generator-pro/',
-      colors: ['#3b82f6', '#8b5cf6', '#22c55e'],
-      badges: ['Python', 'OpenAI', 'Streamlit'],
-    },
-    {
-      name: 'RAGenius',
-      description: 'Production-ready Retrieval-Augmented Generation API built with FastAPI, Azure OpenAI, and ChromaDB. Supports multi-format document processing, streaming responses, and incremental vector store updates.',
-      githubUrl: 'https://github.com/meashish194/',
-      liveUrl: 'https://meashish194.github.io/',
-      colors: ['#3b82f6', '#8b5cf6', '#22c55e'],
-      badges: ['FastAPI', 'ChromaDB', 'Langchain'],
-    },
     {
       name: 'Online Banking',
       description: 'Uses Python and MySQL - Transaction Management, Loans, Cheque, Fund Transfers.',
@@ -85,24 +68,7 @@ export const siteConfig = {
       colors: ['#3b82f6', '#8b5cf6', '#22c55e'],
       badges: ['Python', 'MySQL'],
     },
-    {
-      name: 'Chess Game',
-      description: 'A GUI based Chess game in Python for two players that implements all major OOP Concepts. Techniques like backtracking and Greedy Approach was used to determine possibles moves. Files were used for storing statistics',
-      githubUrl: 'https://github.com/mrashrike/',
-      liveUrl: '',
-      colors: ['#2563eb', '#22c55e', '#f97316'],
-      badges: ['Python', 'OOP', 'Backtracking', 'Greedy Approach'],
-      isWinner: true,
-    },
-    {
-      name: 'Digital Passbook',
-      description: 'An Android App to keep track of all transactions across multiple bank accounts.',
-      githubUrl: 'https://github.com//mrashrike/',
-      liveUrl: '',
-      colors: ['#2563eb', '#22c55e', '#f97316'],
-      badges: ['Java', 'Android Studio', 'SQLite'],
-    },
-    
+   
   ],
      github: {
     username: 'my-protfolio',
