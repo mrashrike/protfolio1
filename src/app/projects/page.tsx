@@ -29,7 +29,9 @@ export default function Projects() {
             onMouseLeave={handleMouseLeave}
             style={{ minHeight: 340 }}
           >
-            
+            {project.isWinner && (
+              <div className="winner-badge">🥇</div>
+            )}
             {project.name === "KissanGPT" && (
   <div className="wheat-badge">🌾</div>
 )}
