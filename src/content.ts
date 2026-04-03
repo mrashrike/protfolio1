@@ -51,6 +51,7 @@ export const siteConfig = {
       liveUrl: 'https://mrashrike.github.io/doyouwannahangoutwithme/',
       colors: ['#3b82f6', '#8b5cf6', '#22c55e'],
       badges: ['HTML','CSS'],
+     
     },
     {
       name: 'What is Data?',
@@ -67,6 +68,8 @@ export const siteConfig = {
       liveUrl: '',
       colors: ['#3b82f6', '#8b5cf6', '#22c55e'],
       badges: ['Python', 'MySQL'],
+       isWinner: true,
+      
     },
    
   ],
