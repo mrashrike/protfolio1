@@ -4,7 +4,7 @@ export const siteConfig = {
   name: 'Ashish Kumar',
   title: 'Software Engineer | Data Science Enthusiast',
   about: {
-    headline: 'Making Production-Ready Models a Reality on Cloud Infrastructure.',
+    headline: 'I make beautiful things with data.',
     socials: {
       github: 'https://github.com/mrashrike',
       
