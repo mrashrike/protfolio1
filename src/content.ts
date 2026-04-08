@@ -2,7 +2,7 @@
 
 export const siteConfig = {
   name: 'Ashish Kumar',
-  title: 'Software Engineer | Data Science Enthusiast',
+  title: 'Data Science Enthusiast',
   about: {
     headline: 'I make beautiful things with data.',
     socials: {
