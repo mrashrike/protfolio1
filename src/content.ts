@@ -18,11 +18,11 @@ export const siteConfig = {
   experience: [
     
     {
-      company: 'Greet Labs',
+      company: '',
       title: '',
       link: '',
-      period: 'Jan 2022 - Present',
-      logo: '/greet.png',
+      period: '',
+      
       highlights: [
         'Develop & maintain complex predictive models and machine learning pipelines.',
         'Perform in-depth data analysis & wrangling to drive product decisions.',

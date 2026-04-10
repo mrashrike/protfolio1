@@ -26,7 +26,7 @@ export default function Experience() {
               <div className="flex flex-col md:flex-row md:justify-between md:items-center mb-2 gap-4">
                 <div className="flex items-center gap-3 min-w-0">
                   <Link href={exp.link} target="_blank" rel="noopener noreferrer" className="flex-shrink-0 w-12 h-12 rounded-full bg-white border-2 border-cyan-800 flex items-center justify-center overflow-hidden shadow-md hover:border-cyan-400 transition-colors">
-                    <Image src={exp.logo} alt={exp.company + ' logo'} width={48} height={48} className="object-contain" />
+                    
                   </Link>
                   <div className="min-w-0">
                     <h2 className="text-xl font-bold text-cyan-300 truncate"><a href={exp.link} target="_blank" rel="noopener noreferrer">{exp.company}</a></h2>
